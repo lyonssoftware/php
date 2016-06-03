@@ -1,5 +1,5 @@
 <?php
-  // sort() is a function that sorts the array, fruits, into alphabetical order A -> Z
+  // sort() sorts alphabetically 
   $fruits = array("banana", "apple", "orange");
   sort($fruits);
 ?>
