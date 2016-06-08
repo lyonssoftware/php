@@ -1,6 +1,6 @@
 <?php
 
-// set the date and time with a certain date and time 
+// crate a new data object to set the date 
 $raw = '22. 11. 2016';
 $start = DateTime::createFromFormat('d. m. Y', $raw);
 
