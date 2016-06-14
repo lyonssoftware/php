@@ -1,5 +1,4 @@
-<?php
-
+<? // use data 
 // crate a new data object to set the date 
 $raw = '22. 11. 2016';
 $start = DateTime::createFromFormat('d. m. Y', $raw);
