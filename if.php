@@ -1,5 +1,7 @@
 <?php
-// set the date 
+// Check the date 
+
+
 $t = date("H");
 // conditional if statement
 // if the conditions are met, the statement will proceed, if not then the statement will not 
