@@ -2,7 +2,7 @@
 
 $info = array('coffee', 'brown', 'caffeine');
 
-// Listing all the variables
+// Listing all the variables, list are s data structure 
 list($drink, $color, $power) = $info;
 echo "$drink is $color and $power makes it special.\n";
 
