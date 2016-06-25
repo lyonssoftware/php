@@ -1,4 +1,5 @@
  <?php
+      // create new class Programmer
       class Programmer {
            // Class Properties
            var $name;         // Programmer's name
