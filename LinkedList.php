@@ -1,4 +1,5 @@
 <?php
+// class
 class ListNode
 {
     public $data;
