@@ -1,4 +1,5 @@
  <?php
+      // classes are used to define an object 
       // create new class Programmer
       class Programmer {
            // Class Properties
