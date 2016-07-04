@@ -1,5 +1,6 @@
 <?php
 // class
+// set up the Node class 
 class ListNode
 {
     public $data;
