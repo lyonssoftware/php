@@ -1,4 +1,5 @@
 <?php
+  // concat or concatenation 
   // concatenation combines string txt2 to txt1 with the  "." symbol 
   $txt1 = "Hello ";
   $txt2 = " world!";
