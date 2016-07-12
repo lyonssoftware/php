@@ -1,5 +1,5 @@
 <?php
-// class
+// class for the LinkedList Node
 // set up the Node class 
 class ListNode
 {
