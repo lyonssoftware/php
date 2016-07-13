@@ -11,6 +11,7 @@
         // $output contains the output string 
         $output = curl_exec($ch); 
 
+        // method to close curl
         // close curl resource to free up system resources 
         curl_close($ch);      
 ?>
