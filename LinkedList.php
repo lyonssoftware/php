@@ -1,6 +1,6 @@
 <?php
 // class for the LinkedList Node
-// set up the Node class 
+// set up the ListNode class 
 class ListNode
 {
     public $data;
