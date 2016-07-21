@@ -1,4 +1,6 @@
 <?php
+
+// string variables 
 $mystring = 'abc';
 $findme   = 'a';
 $pos = strpos($mystring, $findme);
