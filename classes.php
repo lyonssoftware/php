@@ -1,5 +1,4 @@
  <?php
-      // classes create objects 
       // create new class Programmer
       class Programmer {
            // Class Properties
