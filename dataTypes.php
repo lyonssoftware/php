@@ -3,7 +3,7 @@
   
 
   $string = "This is a string";
-    // String are text 
+ 
   // Integer
   $int = 35; 
   
