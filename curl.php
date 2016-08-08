@@ -1,6 +1,5 @@
 <?php 
-        // cURL is a library that lets you make HTTP requests in PHP
-        // create curl resource 
+        // cURL is a library that lets you make HTTP requests in PHP; create curl resource 
         $ch = curl_init(); 
 
         // set url 
