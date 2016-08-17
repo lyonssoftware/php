@@ -1,5 +1,5 @@
 <?php
 
-// confirm local PHP sett
+// display the current php configurations
   phpinfo();
 ?>
