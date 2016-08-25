@@ -1,4 +1,5 @@
 <?php 
+// process the queue 
 function processSendQueue($socket, $sendQueue) { 
     while (!$sendQueue->isEmpty()) { 
                             //shift() is the same as dequeue() 
