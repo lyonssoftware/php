@@ -1,6 +1,7 @@
 <?php
   // string
   $string = "This is a string";
+  $string2 = "This is another string"; 
  // php supports different datatypes
   // Integer
   $int = 35; 
