@@ -1,6 +1,6 @@
 <?php
 
-// Valid constant names
+// Examples of valid constants, name , value 
 define("FOO",     "something");
 define("FOO2",    "something else");
 define("FOO_BAR", "something more");
