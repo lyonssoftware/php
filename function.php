@@ -2,7 +2,7 @@
 
 $a=10;
 $b=13;
-// functions makes programming easier; perform the function add() with two parameters
+// functions perform a list of steps in order; perform the function add() with two parameters
 function add($a,$b){
     echo "The Sum of $a+$b= ", $a+$b, "<br />";
     $a=5;
