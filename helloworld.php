@@ -1,4 +1,4 @@
 <?php
-// it's traditional to print hello world 
+// it is customary as programmers to print hello world 
 echo 'hello world';
 ?>
