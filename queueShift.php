@@ -1,5 +1,5 @@
 <?php 
-// process the queue 
+// process the queue in the correct order
 function processSendQueue($socket, $sendQueue) { 
     while (!$sendQueue->isEmpty()) { 
                             //shift() is the same as dequeue() 
