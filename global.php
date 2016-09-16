@@ -1,10 +1,9 @@
 <?php
 $x = 75;
 $y = 25;
- 
- // global variables are available in multiple scopes through out the php program 
+ // global variables are variables accessible outside the scope it is declared in
 function addition() {
-    $GLOBALS['z'] = $GLOBALS['x'] + $GLOBALS['y']; hhhjjjj
+    $GLOBALS['z'] = $GLOBALS['x'] + $GLOBALS['y']; 
 }
  
 addition();
