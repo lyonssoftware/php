@@ -3,6 +3,7 @@
 <body>
 
 <?php
+// create a multidimensional array
 $cars = array
   (
   array("Volvo",22,18),
