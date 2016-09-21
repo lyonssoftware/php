@@ -2,6 +2,7 @@
   // string
   $string = "This is a string";
   $string2 = "This is another string"; 
+  $string3 = "string 3";
  // php supports different datatypes
   // Integer
   $int = 35; 
