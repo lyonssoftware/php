@@ -1,5 +1,5 @@
 <?php
-  // function to calculate line 
+  // function to calculate, $m = slope, x = variable, $b = y intercept
   function m_x_plus_b($m, $x, $b) 
   {
     return $m*$x+$b;
