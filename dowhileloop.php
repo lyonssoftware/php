@@ -6,6 +6,7 @@ do {
         echo "i is not big enough";
         break;
     }
+    // loop through statement while true
     $i *= $factor;
     if ($i < $minimum_limit) {
         break;
