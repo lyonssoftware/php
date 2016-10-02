@@ -1,6 +1,6 @@
 <?php
 
-// array 
+// create an arrray of three items
 $info = array('coffee', 'brown', 'caffeine');
 
 // Listing all the variables, list are s data structure 
