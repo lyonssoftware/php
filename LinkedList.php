@@ -1,5 +1,5 @@
 <?php
-// class for the LinkedList Node
+// a LinkedList is a type of data structure
 // set up the ListNode class 
 class ListNode
 {
